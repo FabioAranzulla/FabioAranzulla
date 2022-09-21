@@ -1,6 +1,6 @@
 ### Hi there 👋, Fabio Aranzulla
 #### Junior developer
-I'm Fabio from Milan Italy!
+I live in Milan Italy!
 I'm currently learning Front-End and Back-End languages and I hope to become a Web Developer! 
 I like hard work and helping for team success. I have a strong passion for learning and implementing new web technologies. 
 
